@@ -1,2 +1,2 @@
 # Gemini-Clone
-I have built a Chatbot using HTML, CSS, JS
+I have built a Gemini AI clone using HTML, CSS, Java Script
